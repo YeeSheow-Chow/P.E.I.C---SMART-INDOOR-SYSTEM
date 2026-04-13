@@ -53,7 +53,7 @@ This figure shows the simulated wiring logic of the system, which helps explain 
 
 This figure shows the actual physical hardware setup used during prototyping and testing.
 
-![Real Hardware Connection](./reality.jpg)
+![Real Hardware Connection](./reality.png)
 
 ---
 
