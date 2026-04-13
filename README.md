@@ -3,7 +3,7 @@
 Hi! 👋  
 This project was mainly developed as my final-year graduation project. At its current stage, it is still a prototype-oriented system built for research, testing, and presentation purposes rather than a fully deployed real-world product.
 
-Some practical functions and large-scale deployment features have not been fully implemented yet, mainly because of time, hardware limitations, and the scope of an undergraduate / student project. Still, this project represents my attempt to explore how intelligent sensing, simple embedded control, and interactive visualization can be combined to improve energy use in shared indoor spaces.
+Some practical functions and large-scale deployment features have not been fully implemented yet, mainly because of time, hardware limitations, and the scope of an student project. Still, this project represents my attempt to explore how intelligent sensing, simple embedded control, and interactive visualization can be combined to improve energy use in shared indoor spaces.
 
 I hope that in the future, with more time, experience, and technical support, this work can be further improved and extended into a more complete and practical system. 😊
 
@@ -92,7 +92,9 @@ What is still not fully implemented:
 
 ## Why I Made This Project
 
-In many public indoor spaces, lights and cooling devices often continue running even when the actual number of people in the room changes. This can lead to unnecessary energy use.
+In many public indoor spaces, lights and cooling devices often stay on even when the number of people in the room changes, which can easily lead to wasted energy. At the same time, some common smart-space solutions depend too much on camera-based monitoring, and that made me think more seriously about privacy in shared environments like classrooms or study areas.
+
+That was one of the main reasons I wanted to do this project. I hoped to explore whether it is possible to make indoor spaces more energy-efficient while also being more privacy-aware. For me, this project was not only about control and automation, but also about finding a better balance between sensing performance, practical energy savings, and respect for users in public spaces. Even though the current system is still a prototype, it helped me better understand how these ideas can be connected in a real design process.
 
 I wanted to build a small but meaningful prototype to explore whether a smarter and more responsive system could help improve this situation. Even though the current version is still simple, it helped me better understand the relationship between sensing, embedded systems, control logic, and energy-aware design.
 
