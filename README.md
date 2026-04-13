@@ -102,7 +102,7 @@ I wanted to build a small but meaningful prototype to explore whether a smarter 
 
 ## Future Improvements
 
-If I continue developing this project in the future, possible directions include:
+If you wanna continue developing this project in the future, directions may include:
 
 - More accurate occupancy detection
 - Better sensor fusion
@@ -123,5 +123,5 @@ Some modules are simplified for prototype testing, so the current implementation
 
 ## Author
 
-Developed as a graduation project / research prototype.  
+Developed as a graduation project.  
 Thanks for reading and checking out this work! 🌱
