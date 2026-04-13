@@ -45,7 +45,7 @@ The current version is mainly intended for demonstration and academic presentati
 
 This figure shows the simulated wiring logic of the system, which helps explain how the components are expected to connect and interact during the design stage.
 
-![Simulation Wiring Diagram](./images/simulation-wiring.png)
+![Simulation Wiring Diagram](./simulated.png)
 
 ---
 
@@ -53,7 +53,7 @@ This figure shows the simulated wiring logic of the system, which helps explain 
 
 This figure shows the actual physical hardware setup used during prototyping and testing.
 
-![Real Hardware Connection](./images/real-hardware.jpg)
+![Real Hardware Connection](./reality.jpg)
 
 ---
 
